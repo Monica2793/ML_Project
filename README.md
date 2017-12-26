@@ -1,4 +1,1 @@
-# ML_Project
-# ML-Projects
-# ML-Projects
-# ML-Projects
+## The training and testing datasets are obtained from mnist website.
